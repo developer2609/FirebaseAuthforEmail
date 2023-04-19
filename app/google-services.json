@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217381724379",
+    "project_id": "hamkorauth",
+    "storage_bucket": "hamkorauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217381724379:android:f84dc7e23b5eb90474ecfe",
+        "android_client_info": {
+          "package_name": "com.developer.firebaseregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217381724379-hbub7ov5ess32abuljnj634ppp0gn8dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPU7sw3jI-EKfyIIx5VKl2TszanOf5JkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217381724379-hbub7ov5ess32abuljnj634ppp0gn8dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
